@@ -5,7 +5,7 @@ entries:
     appVersion: 1.16.0
     created: "2023-04-13T23:20:17.2555362+05:30"
     description: A Helm chart for Kubernetes
-    digest: 0fd538f1a2257bdce3f0ffb3f712586660a0631e6fd53712a30ee67da0dab1b7
+    digest: 0fd538f1ahelm package docs/examples/alpine/2257bdce3f0ffb3f712586660a0631e6fd53712a30ee67da0dab1b7
     name: firstchart
     type: application
     urls:
